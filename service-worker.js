@@ -1,10 +1,11 @@
 
-const cacheName = 'v2';
+const cacheName = 'v3';
 
 const cacheAssets = [
   'index.html',
   'style.css',
   'about.html',
+  'index.js',
   'images/image-1.jpg',
   'images/image-2.jpg',
 ]
